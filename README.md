@@ -591,8 +591,6 @@ contact.html
 ```
 ## OUTPUT:
 
-![Screenshot (13)](https://github.com/user-attachments/assets/a4ab3553-050b-4407-89ac-74aa27599f84)
-
 
 ![Screenshot (14)](https://github.com/user-attachments/assets/48d0fb95-e33e-4ef9-a331-337508bdc432)
 
